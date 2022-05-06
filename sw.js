@@ -1,7 +1,7 @@
 const CACHE_NAME = "login_v"
 
   urlsToCache = [
-    "https://script.google.com/a/macros/servinformacion.com/s/AKfycbwP6ntNvBoiWpXKbCZUHeiaRmdapMmIB13liruer_MKRoCY8NmNkw0zK3r4bGGxQ8YWxA/exec",
+    "https://script.google.com/a/macros/servinformacion.com/s/AKfycbxo47-pPU-KlOg1ezBpn8Y2tLsiDNinU8sJZH_-6AGwcx6J2Tk2Q_V4sAnD679aBfL3Cg/exec",
     "./manifest.json",
   ];
 
